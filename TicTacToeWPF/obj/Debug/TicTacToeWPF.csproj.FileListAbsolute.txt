@@ -1,0 +1,15 @@
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe.config
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.pdb
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csprojResolveAssemblyReference.cache
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\App.g.cs
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.cache
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.lref
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.baml
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.g.resources
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.Properties.Resources.resources
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.GenerateResource.Cache
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.CoreCompileInputs.cache
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.exe
+C:\Users\AlaskaJay\source\repos\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.pdb

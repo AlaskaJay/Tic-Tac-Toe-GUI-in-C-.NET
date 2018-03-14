@@ -1,0 +1,21 @@
+﻿<Window x:Class="TicTacToeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TicTacToeWPF"
+        mc:Ignorable="d"
+        Title="Tic Tac Toe">
+
+    <Grid Height="300" Width="300">
+        <Button Name = "butt00" Content = "0, 0" Margin="000,000,200,200"/>
+        <Button Name = "butt01" Content = "0, 1" Margin="000,100,200,100"/>
+        <Button Name = "butt02" Content = "0, 2" Margin="000,200,200,000"/>
+        <Button Name = "butt10" Content = "1, 0" Margin="100,000,100,200"/>
+        <Button Name = "butt11" Content = "1, 1" Margin="100,100,100,100"/>
+        <Button Name = "butt12" Content = "1, 2" Margin="100,200,100,000"/>
+        <Button Name = "butt20" Content = "2, 0" Margin="200,000,000,200"/>
+        <Button Name = "butt21" Content = "2, 1" Margin="200,100,000,100"/>
+        <Button Name = "butt22" Content = "2, 2" Margin="200,200,000,000"/>
+    </Grid>
+</Window>
