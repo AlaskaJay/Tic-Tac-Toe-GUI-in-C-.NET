@@ -5,17 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TicTacToeWPF"
         mc:Ignorable="d"
-        Title="Tic Tac Toe">
+        Title="Tic Tac Toe"
+        SizeToContent="WidthAndHeight">
 
     <Grid Height="300" Width="300">
-        <Button Name = "butt00" Content = "0, 0" Margin="000,000,200,200"/>
-        <Button Name = "butt01" Content = "0, 1" Margin="000,100,200,100"/>
-        <Button Name = "butt02" Content = "0, 2" Margin="000,200,200,000"/>
-        <Button Name = "butt10" Content = "1, 0" Margin="100,000,100,200"/>
-        <Button Name = "butt11" Content = "1, 1" Margin="100,100,100,100"/>
-        <Button Name = "butt12" Content = "1, 2" Margin="100,200,100,000"/>
-        <Button Name = "butt20" Content = "2, 0" Margin="200,000,000,200"/>
-        <Button Name = "butt21" Content = "2, 1" Margin="200,100,000,100"/>
-        <Button Name = "butt22" Content = "2, 2" Margin="200,200,000,000"/>
+        <Button Name = "butt00" Content = "0, 0" Margin="000,000,200,200" Click = "butt00_Click"/>
+        <Button Name = "butt01" Content = "0, 1" Margin="000,100,200,100" Click = "butt01_Click"/>
+        <Button Name = "butt02" Content = "0, 2" Margin="000,200,200,000" Click = "butt02_Click"/>
+        <Button Name = "butt10" Content = "1, 0" Margin="100,000,100,200" Click = "butt10_Click"/>
+        <Button Name = "butt11" Content = "1, 1" Margin="100,100,100,100" Click = "butt11_Click"/>
+        <Button Name = "butt12" Content = "1, 2" Margin="100,200,100,000" Click = "butt12_Click"/>
+        <Button Name = "butt20" Content = "2, 0" Margin="200,000,000,200" Click = "butt20_Click"/>
+        <Button Name = "butt21" Content = "2, 1" Margin="200,100,000,100" Click = "butt21_Click"/>
+        <Button Name = "butt22" Content = "2, 2" Margin="200,200,000,000" Click = "butt22_Click"/>
     </Grid>
 </Window>
